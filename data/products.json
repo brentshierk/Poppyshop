@@ -11,7 +11,7 @@
 		"id": "01",
 		"name": "test",
 		"price": 9.95,
-		"image": "",
+		"image": "/uploads/cat-waves.png",
 		"description": "just a test",
 		"product_url": ""
 	}
